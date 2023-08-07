@@ -1,2 +1,1 @@
-# website eccomerce with fake store api
- 
+# ecommerce-shop-starter
